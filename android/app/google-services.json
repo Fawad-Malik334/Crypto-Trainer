@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451026173269",
+    "project_id": "cryptoapp-ed696",
+    "storage_bucket": "cryptoapp-ed696.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451026173269:android:edca85717bcc58f31343dc",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451026173269-ndfo7e3c56rftaduvutn0vv3mchn6oc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "c83993ed4293b07cdb7cf148bb178e880e3c31f5"
+          }
+        },
+        {
+          "client_id": "451026173269-pq819q8qveseu95s9ml03fdarhejirmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC03Dj81VrIU19btFvMMaFnqsaLl0zQMpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451026173269-pq819q8qveseu95s9ml03fdarhejirmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
